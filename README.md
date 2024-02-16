@@ -1,4 +1,4 @@
-# Angular with Node and Mysql - kickstart
+# Angular with Node and Mysql - EmployeeRecords
   A demo app to demonstrate 3 tier application architecture with Angular (client side), Node.js (server side) and Mysql (database).
   
 ## Prerequisite Installation:
