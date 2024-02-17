@@ -56,5 +56,3 @@
      > recommended controller and services should be in seperate files
   3. APIs are written in *app.js* from where it maps CRUD method of *query.js* file, which is responsible to communicate with database
 
-## Live demo on:
-  *https://node-sql.herokuapp.com/*
